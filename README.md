@@ -204,10 +204,6 @@ class Angel:
 
 <br/>
 
-<img width="91%" src="https://github-profile-trophy.vercel.app/?username=Angelbuilds10&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Angelbuilds10/Angelbuilds10/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Angelbuilds10/Angelbuilds10/output/github-snake.svg" />
