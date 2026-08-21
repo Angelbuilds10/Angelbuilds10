@@ -202,13 +202,6 @@ class Angel:
 
 <img width="91%" src="https://github-readme-activity-graph.vercel.app/graph?username=Angelbuilds10&bg_color=0D1117&color=A78BFA&line=22D3EE&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=false&border_color=8B5CF6" alt="Contribution activity graph"/>
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Angelbuilds10/Angelbuilds10/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Angelbuilds10/Angelbuilds10/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Angelbuilds10/Angelbuilds10/output/github-snake.svg" width="95%" />
-</picture>
 
 </div>
 
